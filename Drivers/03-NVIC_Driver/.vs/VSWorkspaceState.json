@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\MCAL",
+    "\\src\\MCAL\\NVIC"
   ],
+  "SelectedNode": "\\src\\MCAL\\NVIC\\NVIC_private.h",
   "PreviewInSolutionExplorer": false
 }
